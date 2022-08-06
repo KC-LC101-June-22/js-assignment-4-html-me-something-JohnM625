@@ -1,1 +1,63 @@
-/* Write your CSS here! */
+#headingArea{
+    background-color: bisque;
+    line-height: .85;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+    padding: 35px;
+}
+#mainHeadingTitle{
+    font-size:60px;
+    text-decoration: underline;
+}
+#AuthorAndDate {
+    font-size:25px;
+    line-height:.95;
+}
+#headingDate{
+    font-size:20px;
+}
+body {
+    display: block;
+    margin: 8px;
+    background-color: #c4dfff;
+}
+
+h2{
+    padding-top: 35px;
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline overline;
+}
+
+p{
+    margin-top: 25px;
+    margin-left: 175px;
+    margin-right: 175px;
+    margin-bottom: 50px;
+    font-size:22px;
+}
+#testP{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.funParagraph{
+    color:green;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+    
+.subtitle {
+    font-family: "Lucida Console";
+    text-align: center;
+}
+
+.imageCredit {
+    font-style:italic;
+    font-size:14px;
+    text-align: center;
+}
